@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="write_file">Записать файл</string>
+    <string name="read_file">Прочесть файл</string>
+    <string name="write_file_sd">Записать файл на SD</string>
+    <string name="read_file_sd">Прочесть файл на SD</string>
+</resources>
